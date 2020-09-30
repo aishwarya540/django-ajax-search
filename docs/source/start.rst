@@ -1,4 +1,4 @@
-Getting started
+Let's Get started
 ===============
 
 - Python 2.6 or Python 2.7
